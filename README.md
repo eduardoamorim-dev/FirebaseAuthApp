@@ -6,6 +6,16 @@ Aplicação Android desenvolvida em Kotlin para demonstrar autenticação de usu
 
 Este projeto implementa um sistema básico de autenticação permitindo que os usuários criem contas e façam login utilizando email e senha através do Firebase Authentication.
 
+
+## Demo
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e86fb904-e12c-4f98-8172-991b7d2d84af" alt="Imagem 1" width="30%">
+  <img src="https://github.com/user-attachments/assets/748144f0-c119-459f-82d0-f4372d06e184" alt="Imagem 2" width="30%">
+  <img src="https://github.com/user-attachments/assets/04174ea4-bb68-4e54-8627-83e150a4c08a" alt="Imagem 3" width="30%">
+</p>
+
+
 ## Funcionalidades
 
 - Criação de conta com email e senha
